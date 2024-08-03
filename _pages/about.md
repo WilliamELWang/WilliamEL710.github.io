@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-欢迎来到我的主页！
+I'm a third year undergraduate student from [School of Mathematics and Science(https://eecs.pku.edu.cn/), [Beihang University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
 A data-driven personal website
 ======
